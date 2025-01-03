@@ -1,8 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ... Java and Python
-- 💬 Ask me about ... Anything
+- 🌱 I’m currently learning ... SQL and Machine Learning methods
+- 💬 Ask me about ... Anything related to coding, working out, or video games.
 - 📫 How to reach me: ... codyrabie1@gmail.com
-- ⚡ Fun fact: ... some of my hobbies include various sports and video games.
+- ⚡ Fun fact: ... some of my hobbies include basketball, muay thai, video games, and coding.
